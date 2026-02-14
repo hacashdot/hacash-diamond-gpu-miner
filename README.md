@@ -143,24 +143,6 @@ MINER PARAMETERS
 --gpus                Comma-separated GPU IDs
 
 ------------------------------------------------------------
-PERFORMANCE NOTES
-------------------------------------------------------------
-
-Performance scales with GPU architecture:
-
-• 2000 series – entry performance  
-• 3000 series – strong performance  
-• 4000 series – high performance  
-• 5000 series – highest performance  
-
-Performance depends on:
-
-• GPU model  
-• Power configuration  
-• Cooling stability  
-• Driver compatibility  
-
-------------------------------------------------------------
 SECURITY RECOMMENDATIONS
 ------------------------------------------------------------
 
