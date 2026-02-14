@@ -86,10 +86,6 @@ Download binary:
 wget https://github.com/hacashdot/hacash-diamond-gpu-miner/raw/main/hacashdot-diamond-server
 chmod +x hacashdot-diamond-server
 
-Or build from source:
-
-cargo build --release
-
 Environment variables:
 
 export BACKEND_TOKEN=YOURPASSWORD
