@@ -1,6 +1,6 @@
 # 💎 Hacash Diamond GPU Miner
 
-Official GPU Diamond mining stack for Hacash.
+GPU Diamond mining stack for Hacash.
 
 Repository:  
 https://github.com/hacashdot/hacash-diamond-gpu-miner
